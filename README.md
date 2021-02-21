@@ -1,6 +1,6 @@
-# Terraform Provider Scaffolding
+# Terraform Provider Cognito
 
-This repository is a *template* for a [Terraform](https://www.terraform.io) provider. It is intended as a starting point for creating Terraform providers, containing:
+This repository was built from a *template* for a [Terraform](https://www.terraform.io) provider. It is intended as a starting point for creating Terraform providers, containing:
 
  - A resource, and a data source (`internal/provider/`),
  - Examples (`examples/`) and generated documentation (`docs/`),
